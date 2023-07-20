@@ -1,6 +1,1 @@
-/node_modules
 /.parcel-cache
-/dist
-/package.json
-/package-lock.json
-/.postcssrc
